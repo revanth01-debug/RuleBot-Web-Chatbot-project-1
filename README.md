@@ -29,7 +29,7 @@ The chatbot runs through a web-based interface and provides an interactive conve
 - ## 📸 Screenshots
 
 ### Welcome & Greeting
-![Welcome]("C:\Users\radha\Downloads\welcome.png")
+![Welcome](welcome.png)
 
 ### Help Command
 ![Help](help.png)
