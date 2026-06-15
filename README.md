@@ -24,3 +24,17 @@ The chatbot runs through a web-based interface and provides an interactive conve
 ## 🛠️ Technologies Used
 
 - Python
+- STEPS SCREENSHOTS :
+- ## 📸 Screenshots
+
+### Welcome & Greeting
+![Welcome]("C:\Users\radha\Downloads\welcome.png")
+
+### Help Command
+![Help](help.png)
+
+### Unknown Input Handling
+![Fallback](fallback-response.png)
+
+### Exit Command
+![Exit](exit.png)
