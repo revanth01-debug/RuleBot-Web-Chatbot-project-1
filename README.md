@@ -1,4 +1,4 @@
-<img width="254" height="373" alt="fallback-response" src="https://github.com/user-attachments/assets/cdaef4e5-43e5-42aa-a563-25094aa93185" />
+
 # RuleBot-Web-Chatbot-project-1
 # RuleBot - AI Chatbot 🤖
 
